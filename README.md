@@ -8,7 +8,8 @@ Trago uma bagagem profissional diversa, incluindo **5 anos de experiência na Eu
 
 ---
 
-### 🛠️ Minha Stack Técnica
+### 🛠️ Minha Stack Técnica 
+<img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/4bab6e19-c86f-48c1-944a-5adf488dc86b" />
 
 *   **Linguagens & Automação:** 🐍 `Python` | 🌲 `Cypress` | 🤖 `Selenium` | 💻 `VS Code`
 *   **Testes de API:** 🚀 `Postman` | 📡 `Insomnia`
@@ -25,14 +26,14 @@ Trago uma bagagem profissional diversa, incluindo **5 anos de experiência na Eu
 
 ### 📈 Projetos em Destaque
 
-*   **[Projeto 1]**: Testes automatizados de interface utilizando Cypress.
-*   **[Projeto 2]**: Coleção de testes de API REST desenvolvida no Postman.
-*   **[Projeto 3]**: Scripts de automação simples com Python e Selenium.
+*   **[https://github.com/diaslauro7-beep/QA-Brazil_Python_Automation]**: Testes automatizados de interface utilizando Cypress.
+*   **[https://diaslauro7-6979941.postman.co/workspace/Lauro-Pardinho.'s-Workspace~8f0f9d85-8668-40aa-8f0c-70de82cc1c18/request/50448997-57668cc5-a62b-402c-8ff1-06c7edad4078?action=share&creator=50448997&active-environment=50448997-13e95206-3d64-44a7-8d39-0cbad56041eb]**: Coleção de testes de API REST desenvolvida no Postman.
+*   **[https://github.com/diaslauro7-beep/QA-Brazil_Python_Automation/commit/16595a61c79f3cfd14c9462fb0ac7749879a8a06#diff-d731aa0a69942c45b89e96b58be82442077536914f50df9a49d7ce411b10e15d]**: Scripts de automação simples com Python e Selenium.
 
 ---
 
 ### 📫 Vamos trocar uma ideia?
 
-*   **LinkedIn:** [[](https://www.linkedin.com/in/lauro-pardinho-/)]
+*   **LinkedIn:** [(https://www.linkedin.com/in/lauro-pardinho-/)]
 *   **Localização:** São Paulo - SP 🇧🇷
-*   **Status:** 🚀 Em busca da primeira oportunidade como QA Júnior.
+*   **Status:** 🚀 Em busca da primeira oportunidade como QA Júnior.  
