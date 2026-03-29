@@ -9,7 +9,45 @@ Trago uma bagagem profissional diversa, incluindo **5 anos de experiência na Eu
 ---
 
 ### 🛠️ Minha Stack Técnica 
-<img width="386" height="48" alt="image" src="https://github.com/user-attachments/assets/4bab6e19-c86f-48c1-944a-5adf488dc86b" />
+
+<img 
+    align="left" 
+    alt="Git" 
+    title="Git"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="HTML"
+    title="HTML" 
+    width="30px"  
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+/> 
+<img 
+    align="left" 
+    alt="Jira"
+    title="Jira" 
+    width="30px"  
+    style="padding-right: 10px;"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/aarch64/aarch64-original.svg" >
+
+        
+            
+<br/>
+<br/>
+
+
 
 *   **Linguagens & Automação:** 🐍 `Python` | 🌲 `Cypress` | 🤖 `Selenium` | 💻 `VS Code`
 *   **Testes de API:** 🚀 `Postman` | 📡 `Insomnia`
