@@ -2,9 +2,11 @@
 
 ### 👨‍💻 QA Engineer Júnior | Em Transição de Carreira
 
-Tenho 37 anos, moro em São Paulo e sou apaixonado por tecnologia e processos. Recentemente, concluí o Bootcamp de **Engenharia de QA da Tripleten Brazil**, consolidando minha transição de carreira. 
+Aos 37 anos, decidi que era hora de unir minha bagagem de vida à minha paixão pela tecnologia. Moro em São Paulo e, recentemente, mergulhei de cabeça no universo de QA Engineer através da Tripleten Brasil, consolidando uma transição de carreira que planejei com muito cuidado.
 
-Trago uma bagagem profissional diversa, incluindo **5 anos de experiência na Europa** e atuação nas áreas administrativa e comercial. Essa vivência me deu o rigor analítico e a atenção aos detalhes fundamentais para garantir a qualidade de softwares robustos e a melhor experiência para o usuário.
+🌍 O que eu trago na mochila?
+Minha trajetória não começou no código, mas no mundo real. Morei 5 anos na Europa e trabalhei nas áreas administrativa e comercial. Essa vivência internacional me ensinou algo valioso: qualidade é um compromisso.
+De lá, trouxe o rigor analítico e aquela atenção aos detalhes que só quem lidou com processos complexos e públicos diversos possui. Hoje, uso esse olhar apurado para garantir que o software não apenas "funcione", mas entregue uma experiência incrível para quem está do outro lado da tela.
 
 ---
 
